@@ -1,8 +1,8 @@
 class Vce < Formula
   desc "Randroid's Text to Voice Script. Using OpenAI's API."
   homepage "https://github.com/randroid88/homebrew-vce"
-  url "https://github.com/randroid88/homebrew-vce/archive/refs/tags/1.0.1.tar.gz"
-  sha256 "dc12c909b9726dbfac883911a6d045ac75c0fa470541c3f3220db9862efab61d"
+  url "https://github.com/randroid88/homebrew-vce/archive/refs/tags/1.0.2.tar.gz"
+  sha256 "adacad46b6a4380659c8cfee43b6e76c04c2580ed8eba41ccb064968b0dcdcaf"
 
   # uses_from_macos "python@3"
 
