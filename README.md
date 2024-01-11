@@ -7,8 +7,10 @@ A simple command line util for pasting in some text and having it read it out lo
 ## Getting the util
 
 This is setup as a brew tap so it can be installed like this:
-brew tap randroid88/vce
-brew install vce
+
+`brew tap randroid88/vce`
+
+`brew install vce`
 
 ## Running the util
 `
